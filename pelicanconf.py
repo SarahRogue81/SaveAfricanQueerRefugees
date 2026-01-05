@@ -21,7 +21,7 @@ AUTHOR_FEED_ATOM = None
 ARTICLE_URL = '{date:%Y}/{slug}/'
 ARTICLE_SAVE_AS = '{date:%Y}/{slug}/index.html'
 DEFAULT_CATEGORY = 'other'
-DISPLAY_TAGS_ON_MENU = False
+DISPLAY_PAGES_ON_MENU = True
 EXTRA_PATH_METADATA = {
     'images/favicons/android-chrome-192x192.png': {'path': 'android-chrome-192x192.png'},
     'images/favicons/android-chrome-512x512.png': {'path': 'android-chrome-512x512.png'},
@@ -40,7 +40,7 @@ PLUGIN_PATHS = ['external']
 PLUGINS = ['asciidoc_reader', 'sitemap']
 STATIC_PATHS = ['images', 'src', 'robots.txt', 'css']
 SUMMARY_MAX_PARAGRAPHS = 1
-THEME = 'external/WhatsTheScoop'
+THEME = 'external/WhatsTheScoopPages'
 TWITTER_USERNAME = 'SarahRogue81'
 USE_FOLDER_AS_CATEGORY = False
 
