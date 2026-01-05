@@ -1,0 +1,6 @@
+[submodule "external/WhatsTheScoopPages"]
+	path = external/WhatsTheScoopPages
+	url = git@github.com:SarahRogue81/WhatsTheScoopPages.git
+[submodule "external/asciidoc_reader"]
+	path = external/asciidoc_reader
+	url = git@github.com:SarahRogue81/asciidoc_reader.git
